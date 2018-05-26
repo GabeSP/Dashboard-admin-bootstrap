@@ -3,13 +3,12 @@ body {
 }
 
 .row {
-  height: 100vh;
+  height: 97vh;
   display: flex;
   flex-direction: column;
 }
 
 .sidenav {
-  background-color: rgb(241, 239, 239);
   flex-grow: 1;
 }
 
