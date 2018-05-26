@@ -12,6 +12,20 @@ body {
   flex-grow: 1;
 }
 
+.sidenav .logo-sn {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+
+}
+.sidenav .logo-sn img {
+  height: 38px;;
+}
+
+.nav-linha {
+  background-color: rgb(145, 145, 145);
+  height: 1px;
+}
+
 @media screen and (max-width: 767px) {
   .row.content {height: auto;}
 }
